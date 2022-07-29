@@ -4,7 +4,7 @@ Helloooow!
 хаха
 
 * можно и простhо через git push
-* а прим этом работает и через git push -u origin main
+* а при этом работает и через git push -u origin main
 
 1. git remote add origin https://github.com/Insomnea42/Lection3.git - связь существующего репозитория на ссылку origin - название
 2. git branch -M main - 
